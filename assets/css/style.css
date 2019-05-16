@@ -27,7 +27,7 @@ hr{
     align-self: center;
     background: #ffffff;
 }
-#bio-image {
+.bio-image {
     float: left;
     width: 250px;
     height: auto;
