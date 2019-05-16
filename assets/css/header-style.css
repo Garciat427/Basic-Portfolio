@@ -25,8 +25,7 @@ header {
   }
   .link-container {
     float: right;
-    margin: 26px;
-    margin-right: 5%;
+    margin: 26px 0;
   }
   .main-links{
       padding: 0 20px;
@@ -37,6 +36,7 @@ header {
       color: #777777;
   }
   .end-link{
-    padding: 10px;
+    padding-left: 20px;
+    margin-left: -4px;
     color: #777777;
 }
