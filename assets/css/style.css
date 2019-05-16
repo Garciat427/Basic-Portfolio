@@ -12,9 +12,10 @@ header {
     padding: 20px;
     margin: 0;
     font-size: 28px;
-    color: #eee;
+    color: #ffffff;
     background:#4aaaa5;
     float: left;
+    
   }
   .header-container {
     overflow: hidden;
@@ -24,22 +25,19 @@ header {
   .link-container {
     float: right;
     margin: 27px;
-    margin-right: 5%
+    margin-right: 5%;
   }
   .main-links{
-      padding: 10px;
-      margin: 0px;
+      padding: 0 20px;
+      margin-left: -4px;
       border-style: solid;
-      border-width: 0 1px 0 0;
+      border-right-width: 1px;
       border-color: #cccccc;
-
+      color: #777777;
   }
   .end-link{
-    margin: 0 10px;
-    padding: 0 10px;
-    border-style: solid;
-    border-width: 0 1px 0 1px;
-    border-color: #cccccc;
+    padding: 10px;
+    color: #777777;
 }
   .bio-container {
     width: 920px;
