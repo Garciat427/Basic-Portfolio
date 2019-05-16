@@ -1,44 +1,8 @@
-header {
-    background: #ffffff;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-bottom: 20px;
-  }
+
   body{
       background-image: url(../images/background/interlaced.png);
       font-family: Arial, Helvetica, sans-serif;
   }
-  
-  h1 {
-    padding: 20px;
-    margin: 0;
-    font-size: 28px;
-    color: #ffffff;
-    background:#4aaaa5;
-    float: left;
-    
-  }
-  .header-container {
-    overflow: hidden;
-    width: 960px;
-    margin: auto;
-  }
-  .link-container {
-    float: right;
-    margin: 27px;
-    margin-right: 5%;
-  }
-  .main-links{
-      padding: 0 20px;
-      margin-left: -4px;
-      border-style: solid;
-      border-right-width: 1px;
-      border-color: #cccccc;
-      color: #777777;
-  }
-  .end-link{
-    padding: 10px;
-    color: #777777;
-}
   .bio-container {
     width: 920px;
     padding: 20px;
@@ -46,7 +10,6 @@ header {
     align-self: center;
     background: #ffffff;
   }
-
   #bio-image {
     float: left;
     width: 200px;
