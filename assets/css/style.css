@@ -1,5 +1,6 @@
 header {
-    background: #d21034;
+    background: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   h1 {
@@ -7,17 +8,13 @@ header {
     margin: 0;
     font-size: 28px;
     color: #eee;
-    text-align: center;
     background:#4aaaa5;
     float: left;
-    position: relative;
-    top: 0px
   }
   .header-container {
-    background: gray;
-    margin: 20px;
-    width: 100%;
-    line-height: 25px;
+    overflow: hidden;
+    width: 960px;
+    margin: auto;
   }
   .link-container {
     float: right;
