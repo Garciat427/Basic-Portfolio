@@ -8,30 +8,11 @@ footer {
     font-family: Arial, Helvetica, sans-serif;
     padding: 30px 0 10px 0;
     text-align: center;
+    border-style: solid;
+    border-top-width: 10px;
+    border-top-color:#4aaaa5;
   }
-  h2 {
+  h3 {
       color: #ffffff;
-      margin-top: 30px;
+      margin: 5px;
   }
-  .footer-container {
-    overflow: hidden;
-    width: 960px;
-    margin: auto;
-  }
-  .link-container {
-    float: right;
-    margin: 26px 0;
-  }
-  .main-links{
-      padding: 0 20px;
-      margin-left: -4px;
-      border-style: solid;
-      border-right-width: 1px;
-      border-color: #cccccc;
-      color: #777777;
-  }
-  .end-link{
-    padding-left: 20px;
-    margin-left: -4px;
-    color: #777777;
-}
