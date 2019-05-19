@@ -14,6 +14,11 @@ hr{
     background:  #cccccc;
     border: none;
 }
+.screen-container{
+    min-height: 90vh;
+    position: relative;
+    overflow: hidden;
+}
 .text{
     
     line-height: 1.5em;
@@ -26,6 +31,8 @@ hr{
     margin: auto;
     align-self: center;
     background: #ffffff;
+    min-height: 60vh;
+    overflow: hidden;
 }
 .bio-image {
     float: left;

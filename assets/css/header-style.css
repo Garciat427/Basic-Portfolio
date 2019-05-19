@@ -6,7 +6,7 @@ Description: Styling used for the header will be found here
 header{
     background: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 2.5vh;
   }
   h1{
     padding: 20px;
@@ -16,11 +16,13 @@ header{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     float: left;
+    min-height: 5vh;
   }
   .header-container{
     overflow: hidden;
     width: 960px;
     margin: auto;
+
   }
   .link-container {
     float: right;
